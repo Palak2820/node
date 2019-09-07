@@ -16,5 +16,13 @@
   "bugs": {
     "url": "https://github.com/Palak2820/node/issues"
   },
-  "homepage": "https://github.com/Palak2820/node#readme"
+  "homepage": "https://github.com/Palak2820/node#readme",
+  "devDependencies": {
+    "nodemon": "^1.19.1"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^1.7.0",
+    "sequelize": "^5.18.1"
+  }
 }
